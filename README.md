@@ -1,2 +1,2 @@
-# panets
+# planets
 Project to colonize Mars
